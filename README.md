@@ -78,6 +78,7 @@ Each completed project will include, where applicable:
 ## 📜 Certification
 
 **Cisco Certified Network Associate (CCNA)** — Cisco
+Information Technology Passport (IP) Examination — PhilNITS / ITPEC, Passed Oct 2022
 
 ## 👨‍💻 About Me
 
