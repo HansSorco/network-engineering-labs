@@ -51,22 +51,42 @@ VLANs separate Layer 2 broadcast domains. Trunk links carry multiple VLANs betwe
 <img width="843" height="275" alt="image" src="https://github.com/user-attachments/assets/4296767d-ed42-44b0-9574-859f327aa026" />
 
 
+
+
 SVIs
+
+
 <img width="843" height="73" alt="image" src="https://github.com/user-attachments/assets/65670a98-d458-449e-8079-d0ad5fc6f0c8" />
 
+
+
 Ent-MLSW1
+
+
 <img width="897" height="672" alt="image" src="https://github.com/user-attachments/assets/c8a92235-253a-408f-a2eb-2f33a3bb06b9" />
 
 
+
+
 Ent-MLSW2
+
+
 <img width="897" height="680" alt="image" src="https://github.com/user-attachments/assets/24fef879-18f4-49d4-bc43-44ffd3c2528f" />
 
 
+
+
 ACSW1
+
+
 <img width="898" height="667" alt="image" src="https://github.com/user-attachments/assets/ce472fc8-4659-4cb8-902c-40a5edf390c0" />
 
 
+
+
 ACSW2
+
+
 <img width="897" height="691" alt="image" src="https://github.com/user-attachments/assets/feba9769-52dd-4198-b876-95a263f6649c" />
 
 
