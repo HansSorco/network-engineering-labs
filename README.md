@@ -1,10 +1,6 @@
-# network-engineering-labs
-Hands-on CCNA networking labs covering routing, switching, VLANs, OSPF, network troubleshooting, and Wireshark packet analysis using Packet Tracer and GNS3.
-
-
 # Network Engineering Labs
 
-A hands-on networking portfolio documenting network configuration, routing and switching, packet analysis, and troubleshooting labs.
+Hands-on networking portfolio documenting routing, switching, VLANs, network redundancy, troubleshooting, and packet analysis using Cisco Packet Tracer, GNS3, Cisco IOS, and Wireshark.
 
 Built as part of my continuous learning after earning the **Cisco Certified Network Associate (CCNA)** certification.
 
@@ -21,30 +17,39 @@ Built as part of my continuous learning after earning the **Cisco Certified Netw
 | Tool | Purpose |
 |---|---|
 | Cisco Packet Tracer | Network topology design and routing/switching labs |
-| GNS3 | Multi-router network simulations |
+| GNS3 | Multi-device network simulations using Cisco IOS |
 | Wireshark | Packet capture and protocol analysis |
 | Cisco IOS | Device configuration and verification |
 
 ## 📂 Projects
 
-### 1. Enterprise VLAN & Inter-VLAN Routing
-**Status:** Planned
+### 1. Enterprise VLAN, Switching & Routing Lab
 
-- VLAN creation and access port assignment
-- IEEE 802.1Q trunk configuration
-- Inter-VLAN routing
-- Rapid PVST+ and EtherChannel
-- Connectivity testing and troubleshooting
+**Status:** Completed — Configuration and connectivity tests verified.
+
+**Technologies:** VLANs, 802.1Q trunking, EtherChannel, STP, GLBP, OSPF, and Cisco IOS.
+
+- VLAN configuration and trunk verification
+- EtherChannel configuration and verification
+- STP root-bridge placement and forwarding-path verification
+- GLBP gateway redundancy
+- OSPF neighbor adjacency and routing-table verification
+- End-to-end PC connectivity testing
+- Troubleshooting and configuration validation
+
+**[View project documentation](./enterprise-vlan-routing/README.md)**
 
 ### 2. Multi-Router OSPF Network
+
 **Status:** Planned
 
 - OSPF configuration and neighbor adjacencies
-- Route advertisement and routing table verification
+- Route advertisement and routing-table verification
 - End-to-end connectivity testing
 - Routing fault isolation and recovery
 
 ### 3. Wireshark Protocol Analysis
+
 **Status:** Planned
 
 - DNS queries and responses
@@ -54,6 +59,7 @@ Built as part of my continuous learning after earning the **Cisco Certified Netw
 - Packet inspection using display filters
 
 ### 4. Network Troubleshooting Scenarios
+
 **Status:** Planned
 
 - VLAN and trunking issues
@@ -77,8 +83,7 @@ Each completed project will include, where applicable:
 
 ## 📜 Certification
 
-**Cisco Certified Network Associate (CCNA)** — Cisco
-Information Technology Passport (IP) Examination — PhilNITS / ITPEC, Passed Oct 2022
+**Cisco Certified Network Associate (CCNA)** — Passed October 2026.
 
 ## 👨‍💻 About Me
 
