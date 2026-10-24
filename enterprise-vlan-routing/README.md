@@ -303,6 +303,11 @@ Ent-MLSW2
 | OSPF | `show ip ospf neighbor` | Neighbor adjacencies reached `FULL`. |
 | End-to-end connectivity | PC ping tests | Successful replies from the tested source and destination IP addresses. |
 
+Screenshots of the verification commands and connectivity tests are included in the relevant sections above.
+
+
+
+
 
 <img width="844" height="763" alt="image" src="https://github.com/user-attachments/assets/4ab04425-de17-4812-86b5-b538c4adeee4" />
 
