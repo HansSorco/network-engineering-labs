@@ -18,7 +18,7 @@ The lab was validated after configuration fixes. End-to-end ping tests from PCs 
 
 ## Architecture Summary
 
-The observed lab includes multilayer switches and access switches. VLANs 10, 20, 30, and 40 appear in the gateway and spanning-tree configuration. VLAN 1001 appears in trunk/STP output but, according to the lab author, is unused by end devices and has no access ports assigned to it.
+The observed lab includes multilayer switches and access switches. VLANs 10, 20, 30, and 40 appear in the gateway and spanning-tree configuration. VLAN 1001 appears in trunk/STP output but,is unused by end devices and has no access ports assigned to it.
 
 The design uses:
 - **EtherChannel:** Port-channels Po2 and Po3.
