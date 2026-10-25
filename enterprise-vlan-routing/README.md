@@ -40,7 +40,7 @@ The following gateway addresses were visible in the supplied GLBP output. Confir
 | 20 | 192.168.10.128/25 | 192.168.10.254 | GLBP configured on both multilayer switches |
 | 30 | 192.168.20.0/24 | 192.168.20.254 | GLBP configured on both multilayer switches |
 | 40 | 192.168.30.0/24 | 192.168.30.254 | GLBP configured on both multilayer switches |
-| 1001 | | | |Unused by end devices; no access ports are members |
+| 1001 | |Unused by end devices; no access ports are members |
 
 ## Key Technologies and Their Roles
 
