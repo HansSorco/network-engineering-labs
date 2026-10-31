@@ -51,7 +51,7 @@ Built as part of my continuous learning after earning the **Cisco Certified Netw
 - Configured NTP services and standard ACL traffic filtering
 - Performed end-to-end connectivity testing and verified NAT translations and network services
 
-**[View Full Project Documentation →](./enterprise-vlan-routing/README.md)**
+**[View Full Project Documentation →](./enterprise-network-services/README.md)**
 
 ### 3. Wireshark Protocol Analysis
 
