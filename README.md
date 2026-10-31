@@ -39,14 +39,19 @@ Built as part of my continuous learning after earning the **Cisco Certified Netw
 
 **[View project documentation](./enterprise-vlan-routing/README.md)**
 
-### 2. Multi-Router OSPF Network
+### 2. [Enterprise VLAN Segmentation, NAT & Network Services](./enterprise-vlan-routing/README.md)
 
-**Status:** Planned
+**Status:** Completed
 
-- OSPF configuration and neighbor adjacencies
-- Route advertisement and routing-table verification
-- End-to-end connectivity testing
-- Routing fault isolation and recovery
+- Configured VLAN 10 and VLAN 20 with 802.1Q trunking and router-on-a-stick inter-VLAN routing
+- Implemented DHCP, internal DNS, and PAT (NAT Overload)
+- Implemented Layer 2 security using DHCP Snooping, Dynamic ARP Inspection (DAI), and Port Security
+- Configured Rapid PVST+, PortFast Edge, and BPDU Guard
+- Established simulated ISP connectivity using static routing and default routes
+- Configured NTP services and standard ACL traffic filtering
+- Performed end-to-end connectivity testing and verified NAT translations and network services
+
+**[View Full Project Documentation →](./enterprise-vlan-routing/README.md)**
 
 ### 3. Wireshark Protocol Analysis
 
