@@ -39,7 +39,7 @@ Built as part of my continuous learning after earning the **Cisco Certified Netw
 
 **[View project documentation](./enterprise-vlan-routing/README.md)**
 
-### 2. [Enterprise VLAN Segmentation, NAT & Network Services](./enterprise-vlan-routing/README.md)
+### 2. Enterprise VLAN Segmentation, NAT & Network Services
 
 **Status:** Completed
 
